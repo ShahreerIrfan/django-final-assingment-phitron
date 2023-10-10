@@ -7,4 +7,3 @@ admin.site.register(Cart)
 admin.site.register(CartItem)
 
 
-#Xauwa
